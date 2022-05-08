@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+
     char gfg[] = "A string";
     char *ptr = gfg;
 
